@@ -1,0 +1,275 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: white;
+	text-align: center;
+
+}
+.imagenpedidosya{
+	height: 35px;
+	width: 150px;
+	text-align: left;
+ 	position: absolute;
+ 	top: 3%;
+ 	left: 10%;
+}
+a {
+  color: white;
+  background-color: transparent;
+
+}
+
+.contenedor{
+	text-align: right;
+	color: white;
+	background-color: transparent;
+  	text-decoration: none;
+}
+
+.imagenpoint{
+	height: 35px;
+	width: 45px;
+	background-position: center;
+}
+
+.menu__item{
+	color: white;
+	display: inline-block;
+	background-color: transparent;
+  	text-decoration: none;
+}
+
+.imagen-menu{
+	height: 15px;
+	width: 15px;
+}
+
+.menu__item1{
+	color: white;
+	display: inline-block;
+	border: 2px solid white;
+  	border-radius: 5px;
+  	padding: 3px 5px;
+  	text-decoration: none;
+  	background-color: light black;
+}
+
+.bouton{
+	background-color: #FF314F;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+.bouton a:hover, a:active{
+	background-color: #FF314F;
+	color: white;
+	background-color: transparent;
+	opacity: 50%;
+}
+
+.boton{
+	text-align: center;
+	padding: 10px 25px;
+	color: white;
+	background-color: #f44336;
+	display: inline-block;
+	border-radius: 5px;
+	border: 3px red;
+}
+.botton{
+	color: white;
+	display: inline-block;
+	border: 3px solid #f44336;
+  	border-radius: 5px;
+  	padding: 10px 25px;
+  	text-decoration: none;
+  	background-color: #f44336;
+
+}
+
+.location-icon{
+	padding: 5px;
+	background-image: url(img/map-point.jpg);
+	background-color: Light Grey;
+	display: inline-block;
+
+}
+.ciudad{
+	text-align: center;
+	padding: 5px;
+	background-color: light grey;
+	display: inline-block;
+	border: 2px Light Grey;
+  	border-radius: 5px;
+}
+
+h1{
+	color: white;
+}
+
+h3{
+	color: white;
+}
+
+.nav{
+	text-align: top right;
+	color: white;
+	position: top right;
+}
+ 
+.location-icon{
+	position: left;
+}
+
+.muffin{
+	border-radius:250px;
+	width: 60%;
+	height: 40%;
+	display: inline-block;
+
+}
+.noodles-2{
+	border-radius:250px;
+	width: 60%;
+	height: 40%;
+	display: inline-block;
+
+}
+
+.muffin-2{
+	border-radius:250px;
+	width: 60%;
+	height: 40%;
+	display: inline-block;
+}
+
+.pizza-2{
+	border-radius:250px;
+	width: 60%;
+	height: 40%;
+	display: inline-block;
+
+}
+.content_steps_img1{
+	position: left;
+
+}
+.content_steps_img2{
+	position: center;
+
+}
+.content_steps_img3{
+	position: right;
+}
+
+#para1{
+	text-align: center;
+}
+.imagen {
+  background-image: url("img/imagen.jpg");
+  height: 570px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.imgg{
+	background-image: url("https://www.ecestaticos.com/imagestatic/clipping/752/f42/752f42fa77b9719e8878e67198361c5e/la-ciudad-oculta-que-hay-dentro-de-nueva-york-la-otra-moraleja.jpg?mtime=1579565836.png");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  	background-position: center;
+}
+.texto {
+ 	text-align: center;
+ 	position: absolute;
+ 	top: 50%;
+ 	left: 50%;
+ 	transform: translate(-50%, -50%);
+ 	color: white;
+ 	font-family: 'lato', sans-serif
+	font-size: 12px;
+	height: 100%;
+}
+
+.texto3{
+	width: 10%;
+    height: 10%;
+    max-width: 15%;
+    max-height: 15%;
+
+}
+
+.subtitulo{
+	opacity: 50%;
+	color: white;
+}
+
+.text1{
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+	border: 3px white;
+}
+.text2{
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+	border: 3px white;
+}
+.ciudad{
+	width: 100px;
+	color grey;
+	height: 30px;
+}
+
+.TituloPrincipal{
+	padding: 50px 5px;
+	font-size:50px;
+}
+
+.tex1{
+	float: left;
+	font-size: 15px;
+}
+
+.tex{
+	float: left;
+	width: 130px;
+	height: 50px;
+	font-size: 15px;
+}
+
+.tex02{
+	float: center;
+	text-align: center;
+	width: 155px;
+	height: 70px;
+	font-size: 15px;
+}
+.tex3{
+	float: top right;
+	font-size: 15px;
+	text-align: top right;
+	line-height: 50%;
+	width:170px;
+}
+.tex03{
+	float: right;
+	height: 50px;
+	font-size: 15px;
+	text-align: right;
+	width:170px;
+}
+.box{
+	float: left;
+ 	width: 60.33%;
+ 	padding: 60px;
+	}
+
+.box1{
+	float: left;
+ 	width: 90.33%;
+}
